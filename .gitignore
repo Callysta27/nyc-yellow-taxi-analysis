@@ -1,0 +1,7 @@
+# Raw data is not committed (too large)
+data/
+*.parquet
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
